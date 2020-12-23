@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5707656-000b-4efc-b61e-5b7860ea97ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m18TcFq8OxrbCdE0XhpFQU1bT8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5707656-000b-4efc-b61e-5b7860ea97ae" name="Default Changelist" comment="" />
+      <created>1608649745155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608649745155</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="278" key="GridCell.Tab.0.bottom" timestamp="1608741547054">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="278" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
+    <state width="1860" height="278" key="GridCell.Tab.0.center" timestamp="1608741547054">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="278" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
+    <state width="1860" height="278" key="GridCell.Tab.0.left" timestamp="1608741547054">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="278" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
+    <state width="1860" height="278" key="GridCell.Tab.0.right" timestamp="1608741547054">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="278" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
+    <state x="1901" y="162" key="SettingsEditor" timestamp="1608649966711">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1901" y="162" key="SettingsEditor/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608649966711" />
+    <state x="1532" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1608739992708">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1532" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608739992708" />
+    <state x="2056" y="242" key="run.anything.popup" timestamp="1608739964801">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2056" y="242" key="run.anything.popup/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608739964801" />
+    <state x="2063" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608655343775">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2063" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608655343775" />
+  </component>
+</project>
