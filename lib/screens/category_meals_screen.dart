@@ -20,7 +20,7 @@ class _CategoryMealsScreenState extends State<CategoryMealsScreen> {
   @override
   Widget build(BuildContext context) {
     final routeArgs = ModalRoute.of(context).settings.arguments as Map<String, String>;
-    String categoryId = routeArgs['id'];
+    int categoryId = int.parse(routeArgs['id']);
 
     final availableMealForThisCategory = context.watch<List<Meal>>();
 

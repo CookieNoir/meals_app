@@ -4,7 +4,7 @@ import '../screens/meal_detail_screen.dart';
 import '../models/meal.dart';
 
 class MealItem extends StatelessWidget {
-  final String id;
+  final int id;
   final String title;
   final String imageUrl;
   final int duration;
@@ -19,38 +19,6 @@ class MealItem extends StatelessWidget {
     @required this.complexity,
     @required this.duration,
   });
-
-  String get complexityText {
-    switch (complexity) {
-      case Complexity.Simple:
-        return 'Simple';
-        break;
-      case Complexity.Challenging:
-        return 'Challenging';
-        break;
-      case Complexity.Hard:
-        return 'Hard';
-        break;
-      default:
-        return 'Unknown';
-    }
-  }
-
-  String get affordabilityText {
-    switch (affordability) {
-      case Affordability.Affordable:
-        return 'Affordable';
-        break;
-      case Affordability.Pricey:
-        return 'Pricey';
-        break;
-      case Affordability.Luxurious:
-        return 'Expensive';
-        break;
-      default:
-        return 'Unknown';
-    }
-  }
 
   void _selectMeal(BuildContext context) {
     Navigator.of(context)
@@ -149,7 +117,7 @@ class MealItem extends StatelessWidget {
                       SizedBox(
                         width: 6,
                       ),
-                      Text(complexityText),
+                      Text(COMPLEXITY_NAMES[complexity]),
                     ],
                   ),
                   Row(
@@ -160,7 +128,7 @@ class MealItem extends StatelessWidget {
                       SizedBox(
                         width: 6,
                       ),
-                      Text(affordabilityText),
+                      Text(AFFORDABILITY_NAMES[affordability]),
                     ],
                   ),
                 ],

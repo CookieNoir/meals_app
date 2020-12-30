@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5707656-000b-4efc-b61e-5b7860ea97ae" name="Default Changelist" comment="" />
+    <list default="true" id="b5707656-000b-4efc-b61e-5b7860ea97ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/debug_android_application.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/kernel_snapshot.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/7606518a1bc8cd011ae011cb01fe4f1a/kernel_snapshot.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dummy_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dummy_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/favourite.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/favourite.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/meal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/meal.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/categories_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/categories_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/category_meals_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/category_meals_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/filters_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/filters_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/meal_detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/meal_detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/new_meal_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/new_meal_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/meal_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/meal_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +49,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Workshop\Flutter Projects\meals\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1m18TcFq8OxrbCdE0XhpFQU1bT8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +69,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -41,37 +87,57 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="278" key="GridCell.Tab.0.bottom" timestamp="1608741547054">
+    <state x="2040" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609273758121">
       <screen x="1440" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="278" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
-    <state width="1860" height="278" key="GridCell.Tab.0.center" timestamp="1608741547054">
+    <state x="2040" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1609273758121" />
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1609164488231" />
+    <state x="2147" y="357" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609273268313">
       <screen x="1440" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="278" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
-    <state width="1860" height="278" key="GridCell.Tab.0.left" timestamp="1608741547054">
+    <state x="2147" y="357" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1609273268313" />
+    <state x="2180" y="275" key="FileChooserDialogImpl" timestamp="1608792762813">
       <screen x="1440" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="278" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
-    <state width="1860" height="278" key="GridCell.Tab.0.right" timestamp="1608741547054">
+    <state x="2180" y="275" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608792762813" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1609319868759">
       <screen x="1440" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="278" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608741547054" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1609319868759" />
+    <state width="1397" height="220" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1609258047756" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1609319868759">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1609319868759" />
+    <state width="1397" height="220" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1609258047756" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1609319868759">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1609319868759" />
+    <state width="1397" height="220" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1609258047756" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1609319868759">
+      <screen x="1440" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1609319868759" />
+    <state width="1397" height="220" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1609258047756" />
     <state x="1901" y="162" key="SettingsEditor" timestamp="1608649966711">
       <screen x="1440" y="0" width="1920" height="1040" />
     </state>
     <state x="1901" y="162" key="SettingsEditor/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608649966711" />
-    <state x="1532" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1608739992708">
+    <state x="1532" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1609318102213">
       <screen x="1440" y="0" width="1920" height="1040" />
     </state>
-    <state x="1532" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608739992708" />
-    <state x="2056" y="242" key="run.anything.popup" timestamp="1608739964801">
-      <screen x="1440" y="0" width="1920" height="1040" />
+    <state x="1532" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1609318102213" />
+    <state x="69" y="76" width="1302" height="708" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.860@0.0.1440.860" timestamp="1609257909389" />
+    <state x="462" y="200" key="run.anything.popup" timestamp="1609189629523">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="2056" y="242" key="run.anything.popup/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608739964801" />
-    <state x="2063" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608655343775">
-      <screen x="1440" y="0" width="1920" height="1040" />
+    <state x="462" y="200" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1609189629523" />
+    <state x="467" y="186" width="672" height="561" key="search.everywhere.popup" timestamp="1609236332064">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="2063" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1440.860/1440.0.1920.1040@1440.0.1920.1040" timestamp="1608655343775" />
+    <state x="467" y="186" width="672" height="561" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1609236332064" />
   </component>
 </project>

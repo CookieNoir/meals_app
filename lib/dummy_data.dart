@@ -1,67 +1,11 @@
-import 'package:flutter/material.dart';
-
-import './models/category.dart';
 import './models/meal.dart';
-
-const DUMMY_CATEGORIES = const [
-  Category(
-    id: 'c1',
-    title: 'Italian',
-    color: Colors.purple,
-  ),
-  Category(
-    id: 'c2',
-    title: 'Quick & Easy',
-    color: Colors.red,
-  ),
-  Category(
-    id: 'c3',
-    title: 'Hamburgers',
-    color: Colors.orange,
-  ),
-  Category(
-    id: 'c4',
-    title: 'German',
-    color: Colors.amber,
-  ),
-  Category(
-    id: 'c5',
-    title: 'Light & Lovely',
-    color: Colors.blue,
-  ),
-  Category(
-    id: 'c6',
-    title: 'Exotic',
-    color: Colors.green,
-  ),
-  Category(
-    id: 'c7',
-    title: 'Breakfast',
-    color: Colors.lightBlue,
-  ),
-  Category(
-    id: 'c8',
-    title: 'Asian',
-    color: Colors.lightGreen,
-  ),
-  Category(
-    id: 'c9',
-    title: 'French',
-    color: Colors.pink,
-  ),
-  Category(
-    id: 'c10',
-    title: 'Summer',
-    color: Colors.teal,
-  ),
-];
 
 const DUMMY_MEALS = const [
   Meal(
-    id: 'm1',
+    id: 1,
     categories: [
-      'c1',
-      'c2',
+      1,
+      2,
     ],
     title: 'Spaghetti with Tomato Sauce',
     affordability: Affordability.Affordable,
@@ -92,9 +36,9 @@ const DUMMY_MEALS = const [
     isLactoseFree: true,
   ),
   Meal(
-    id: 'm2',
+    id: 2,
     categories: [
-      'c2',
+      2,
     ],
     title: 'Toast Hawaii',
     affordability: Affordability.Affordable,
@@ -120,10 +64,10 @@ const DUMMY_MEALS = const [
     isLactoseFree: false,
   ),
   Meal(
-    id: 'm3',
+    id: 3,
     categories: [
-      'c2',
-      'c3',
+      2,
+      3,
     ],
     title: 'Classic Hamburger',
     affordability: Affordability.Pricey,
@@ -152,9 +96,9 @@ const DUMMY_MEALS = const [
     isLactoseFree: true,
   ),
   Meal(
-    id: 'm4',
+    id: 4,
     categories: [
-      'c4',
+      4,
     ],
     title: 'Wiener Schnitzel',
     affordability: Affordability.Luxurious,
@@ -187,11 +131,11 @@ const DUMMY_MEALS = const [
     isLactoseFree: false,
   ),
   Meal(
-    id: 'm5',
+    id: 5,
     categories: [
-      'c2'
-          'c5',
-      'c10',
+      2,
+      5,
+      10,
     ],
     title: 'Salad with Smoked Salmon',
     affordability: Affordability.Luxurious,
@@ -223,10 +167,10 @@ const DUMMY_MEALS = const [
     isLactoseFree: true,
   ),
   Meal(
-    id: 'm6',
+    id: 6,
     categories: [
-      'c6',
-      'c10',
+      6,
+      10,
     ],
     title: 'Delicious Orange Mousse',
     affordability: Affordability.Affordable,
@@ -259,9 +203,9 @@ const DUMMY_MEALS = const [
     isLactoseFree: false,
   ),
   Meal(
-    id: 'm7',
+    id: 7,
     categories: [
-      'c7',
+      7,
     ],
     title: 'Pancakes',
     affordability: Affordability.Affordable,
@@ -290,9 +234,9 @@ const DUMMY_MEALS = const [
     isLactoseFree: false,
   ),
   Meal(
-    id: 'm8',
+    id: 8,
     categories: [
-      'c8',
+      8,
     ],
     title: 'Creamy Indian Chicken Curry',
     affordability: Affordability.Pricey,
@@ -323,9 +267,9 @@ const DUMMY_MEALS = const [
     isLactoseFree: true,
   ),
   Meal(
-    id: 'm9',
+    id: 9,
     categories: [
-      'c9',
+      9,
     ],
     title: 'Chocolate Souffle',
     affordability: Affordability.Affordable,
@@ -372,11 +316,11 @@ const DUMMY_MEALS = const [
     isLactoseFree: false,
   ),
   Meal(
-    id: 'm10',
+    id: 10,
     categories: [
-      'c2',
-      'c5',
-      'c10',
+      2,
+      5,
+      10,
     ],
     title: 'Asparagus Salad with Cherry Tomatoes',
     affordability: Affordability.Luxurious,

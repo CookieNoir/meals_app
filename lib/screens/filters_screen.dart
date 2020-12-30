@@ -9,16 +9,16 @@ class FiltersScreen extends StatefulWidget {
   FiltersScreen();
 
   @override
-  _FiltersScreenState createState() => _FiltersScreenState();
+  FiltersScreenState createState() => FiltersScreenState();
 }
 
-class _FiltersScreenState extends State<FiltersScreen> {
+class FiltersScreenState extends State<FiltersScreen> {
   bool _glutenFree = false;
   bool _vegetarian = false;
   bool _vegan = false;
   bool _lactoseFree = false;
 
-  Widget _buildSwitchListTile(
+  Widget buildSwitchListTile(
     String title,
     String description,
     bool currentValue,
@@ -60,7 +60,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
           Expanded(
             child: ListView(
               children: <Widget>[
-                _buildSwitchListTile(
+                buildSwitchListTile(
                   'Gluten-free',
                   'Only include gluten-free meals.',
                   _glutenFree,
@@ -68,7 +68,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
                     filters.SetStateByName('gluten', newValue);
                   },
                 ),
-                _buildSwitchListTile(
+                buildSwitchListTile(
                   'Lactose-free',
                   'Only include lactose-free meals.',
                   _lactoseFree,
@@ -76,7 +76,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
                     filters.SetStateByName('lactose', newValue);
                   },
                 ),
-                _buildSwitchListTile(
+                buildSwitchListTile(
                   'Vegetarian',
                   'Only include vegetarian meals.',
                   _vegetarian,
@@ -84,7 +84,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
                     filters.SetStateByName('vegetarian', newValue);
                   },
                 ),
-                _buildSwitchListTile(
+                buildSwitchListTile(
                   'Vegan',
                   'Only include vegan meals.',
                   _vegan,

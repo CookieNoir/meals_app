@@ -20,7 +20,7 @@ class Favourite extends ChangeNotifier{
     return _meals.length;
   }
 
-  bool IsFavourite(String id) {
+  bool IsFavourite(int id) {
     final index = _meals.indexWhere((element) => element.id == id);
     return index >= 0;
   }
